@@ -200,7 +200,7 @@ class Weather extends React.Component {
           </h3>
           <h3 style={{ color: "white", marginTop: "10px" }}>
             Your current location wil be displayed on the App <br></br> & used
-            for calculating Real time weather.
+            for calculating Real time weathe.
           </h3>
         </React.Fragment>
       );
